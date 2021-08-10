@@ -2,6 +2,14 @@
     width: 100%;
 }
 
+h1 {
+    font-family: impact, fantasy;
+    text-align:start;
+    font-size: 50px;
+    color: rgb(216, 35, 35);
+    font-style:normal;
+}
+
 h2 {
      font-family: impact, fantasy;
      text-align: center;
